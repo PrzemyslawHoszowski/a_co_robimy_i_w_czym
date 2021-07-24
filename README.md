@@ -1,1 +1,3 @@
-# a_co_robimy_i_w_czym
+# movie rating
+
+App created to rate watched movies/tv series and learn django :)
